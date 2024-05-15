@@ -28,10 +28,10 @@ Users should be able to:
 ### Screenshot
 
 #### Desktop (~1440 pixels width)
-![](./screenshot.jpg)
+![](./screenshots/screenshot-desktop-1440.png)
 
 #### Desktop (~1040 pixels width)
-![](./screenshots/screenshot-desktop-1440.png)
+![](./screenshots/screenshot-desktop-1040.png)
 
 #### Tablet (~768 pixels width)
 ![](./screenshots/screenshot-tablet-768.png)
