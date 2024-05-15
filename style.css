@@ -180,7 +180,7 @@ main {
 
 picture {
     flex-basis: 540;
-    background-color: hsl(277, 86%, 28%);
+    background-color: var(--soft-violet-color);
     
     /* RESPONSIVE */
     @media only screen and (max-width: 1040px) {
@@ -194,6 +194,7 @@ picture {
         height: 100%;
         object-fit: cover;
         object-position: center;
-        opacity: 0.5;
+        opacity: 0.75;
+        mix-blend-mode: multiply;
     }
 }
